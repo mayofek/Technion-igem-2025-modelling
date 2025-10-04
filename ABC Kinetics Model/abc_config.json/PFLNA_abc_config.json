@@ -1,0 +1,20 @@
+{
+  "file_name": {
+    "file": "/Users/mayofek/Library/Mobile Documents/com~apple~CloudDocs/technion/igem/Technion Team iGEM 2025- Model/P_of_t_research_2_min_csv/P_of_t_PFLNA_research.csv"
+  },
+  "experiment_details": {
+    "E_0": 4.7001e-3,
+    "S_0": 100.0,
+    "h": 0.25,
+    "exp_last": 2.0
+  },
+  "abc_details": {
+    "low_K_M": 600.0,
+    "high_K_M": 1000.0,
+    "low_k_cat": 31.5167,
+    "high_k_cat": 52.5167,
+    "N": 2000,
+    "No_sim": 400,
+    "points_prior": 300
+  }
+}

@@ -1,0 +1,12 @@
+Date of the experiment /Users/mayofek/Library/Mobile Documents/com~apple~CloudDocs/technion/igem/Technion Team iGEM 2025- Model/abc_config.json/PFLNA_abc_config.json: Mon, 29 Sep 2025 16:18:31
+--Final results--
+k_cat
+> mean: 42.019
+> mean - std: 35.936
+> mean + std: 48.103
+
+K_M
+> mean: 799.911
+> mean - std: 683.966
+> mean + std: 915.856
+
