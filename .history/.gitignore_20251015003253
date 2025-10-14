@@ -1,0 +1,18 @@
+# Ignore SignalIP package and model weights (large/binary files)
+# Path with spaces; ignore the folder and its contents
+SPs Selection Model/SignalIP/
+SPs Selection Model/SignalIP/**
+
+# Ignore large model weights if accidentally present anywhere
+**/distilled_model_signalp6.pt
+**/model_weights/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# VS Code workspace
+.vscode/
+
+# System files
+desktop.ini
